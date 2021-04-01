@@ -11,7 +11,7 @@ Resources:
       Handler: index.handler
       Runtime: nodejs12.x
       CodeUri: .
-      Description: A starter AWS Lambda function.
+      Description: A starter AWS Lambda function. Yes.
       MemorySize: 128
       Timeout: 3
       Policies:
